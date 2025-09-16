@@ -258,4 +258,4 @@ huma project
 </html>
 ![44](https://github.com/user-attachments/assets/967ce383-ad19-46f1-b5cd-87d08f01b99c)
 ![ii](https://github.com/user-attachments/assets/0875130a-5ce9-40b6-9622-953c1f0a1a39)
-<img width="1056" height="992" alt="1" src="https://github.com/user-attachments/assets/6d9252f5-b452-4e1c-b82c-9113756bb08d" />
+<img width="1056" height="992" alt="1" src="https://github.com/user-attachments/assets/6d9252f5-b452-4e1c-b82c-9113756bb08d" /> 
